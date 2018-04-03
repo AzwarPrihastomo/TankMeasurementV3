@@ -1,0 +1,14 @@
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\obj\Debug\TankMeasurementV3.Properties.Resources.resources
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\obj\Debug\TankMeasurementV3.csproj.GenerateResource.cache
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\obj\Debug\TankMeasurementV3.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\DAQConfig.json
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\TransmitterConfig.json
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\TankMeasurementV3.exe.config
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\TankMeasurementV3.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\TankMeasurementV3.pdb
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\MathParser.org-mXparser.Net461.dll
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\obj\Debug\TankMeasurementV3.csproj.CopyComplete
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\obj\Debug\TankMeasurementV3.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV3\obj\Debug\TankMeasurementV3.pdb

@@ -1,0 +1,13 @@
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\TankMeasurementV2.exe.config
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\TankMeasurementV2.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\TankMeasurementV2.pdb
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\MySql.Data.dll
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\obj\Debug\TankMeasurementV2.Properties.Resources.resources
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\obj\Debug\TankMeasurementV2.csproj.GenerateResource.Cache
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\obj\Debug\TankMeasurementV2.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\obj\Debug\TankMeasurementV2.pdb
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\DAQConfig.json
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\bin\Debug\TransmitterConfig.json
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TankMeasurementV2\obj\Debug\TankMeasurementV2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿{
+  "Transmitters": [
+    {
+      "Name": "Temperature",
+      "ID": 900,
+      "ChannelAddress": 0,
+      "Equation": "X",
+      "EngineeringUnit": "mA"
+    },
+    {
+      "Name": "Pressure",
+      "ID": 1,
+      "ChannelAddress": 1,
+      "Equation": "X",
+      "EngineeringUnit": "mA"
+    },
+    {
+      "Name": "Level",
+      "ID": 2,
+      "ChannelAddress": 2,
+      "Equation": "X",
+      "EngineeringUnit": "mA"
+    }
+  ]
+}

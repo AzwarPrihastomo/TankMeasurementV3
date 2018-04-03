@@ -1,0 +1,13 @@
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\TestField.exe.config
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\TestField.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\TestField.pdb
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\obj\Debug\TestField.csprojResolveAssemblyReference.cache
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\obj\Debug\TestField.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\obj\Debug\TestField.pdb
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\TankMeasurementV2.exe
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\MySql.Data.dll
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\TankMeasurementV2.pdb
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\TankMeasurementV2.exe.config
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Formulatrix\Documents\Visual Studio 2017\Projects\TankMeasurementV2\TestField\obj\Debug\TestField.csproj.CoreCompileInputs.cache

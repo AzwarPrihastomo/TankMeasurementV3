@@ -1,0 +1,10 @@
+{
+  "PortName": null,
+  "BaudRate": 100,
+  "NumberOfChannel": 0,
+  "DeviceAddress": 0,
+  "StartAddress": 0,
+  "ConversionScale": 0.0,
+  "ConversionOffset": 0.0,
+  "DataBits": 0
+}

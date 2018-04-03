@@ -1,0 +1,16 @@
+{
+  "Sensor": [
+    {
+      "Name": "tempSensor",
+      "ChannelAddress": 1,
+      "Equation": "10*X",
+      "EngineeringUnit": "celcius"
+    },
+    {
+      "Name": "pressSensor",
+      "ChannelAddress": 2,
+      "Equation": "12*X",
+      "EngineeringUnit": "bar"
+    }
+  ]
+}
